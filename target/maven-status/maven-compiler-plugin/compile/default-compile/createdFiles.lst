@@ -1,0 +1,4 @@
+org\masuguar\foolish\base\Connection.class
+org\masuguar\foolish\base\AbstractGeneratorMojo.class
+org\masuguar\foolish\base\PackageInfo.class
+org\masuguar\foolish\MapperGeneratorMojo.class
