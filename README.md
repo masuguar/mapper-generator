@@ -3,7 +3,7 @@
 是一款代码生成插件，在使用[Mybatis通用Mapper](https://gitee.com/free/Mapper)时,可以自动生成实体类和xml文件。
 主要优点就是方便和项目集成，配置简单,生成的代码直接在项目的指定路径下
 ##配置说明
-所有的配置项都在下面
+所有的配置项都在下面,别忘了 depencies中的驱动要改成实际使用的
 ```xml
     <plugin>
         <groupId>org.masuguar.foolish</groupId>
